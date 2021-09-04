@@ -1,4 +1,5 @@
 name: wasp-os binary distribution
+#non functional comment
 
 on:
   push:
