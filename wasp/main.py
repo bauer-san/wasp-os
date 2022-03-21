@@ -4,3 +4,6 @@
 import wasp
 from gadgetbridge import *
 wasp.system.schedule()
+
+from clockNOW import ClockNOWApp
+wasp.system.register(ClockNOWApp())
